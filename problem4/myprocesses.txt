@@ -1,0 +1,5 @@
+root     240929   2718  0 12:33 ?        00:00:00 sshd: aomidsal [priv]
+aomidsal 240936 240929  0 12:33 ?        00:00:00 sshd: aomidsal@pts/1
+aomidsal 240937 240936  0 12:33 pts/1    00:00:00 -bash
+aomidsal 242255 240937  0 12:51 pts/1    00:00:00 ps -ef
+aomidsal 242256 240937  0 12:51 pts/1    00:00:00 grep --color=auto aomidsal
